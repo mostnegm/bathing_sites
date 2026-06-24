@@ -6,7 +6,7 @@ import "@maptiler/sdk/dist/maptiler-sdk.css";
 import "@maptiler/geocoding-control/style.css";
 
 // Vector style version of the background map
-const source = "winter-v4";
+const source = "aquarelle-v4";
 
 // Generate the basic map
 config.apiKey = apiKey;
